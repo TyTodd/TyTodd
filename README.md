@@ -1,7 +1,7 @@
 👋 Hi, I’m @TyTodd welcome to my github. Some of my favorite projects on here:
 ## [modaic](https://github.com/modaic-ai/modaic)
 A python SDK for agent orchestration, context engineering, version control and optimization.
-## datasets #7616](https://github.com/huggingface/datasets/pull/7616) 
+## [datasets #7616](https://github.com/huggingface/datasets/pull/7616) 
 A PR I made to the datasets library to make it easier to work with multi-modal video and audio datasets. By adding audio and video decoding using torchcodec supporting decoding audio tensors directly from video as well as CUDA accelerated video decoding. Released in datasets 4.0.0
 
 ## [py5-layout](https://github.com/TyTodd/py5-layout)
