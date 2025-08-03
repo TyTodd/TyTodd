@@ -53,7 +53,7 @@ py5.run_sketch()
 ![custom sketch]([./examples/custom_sketch.gif](https://github.com/TyTodd/py5-layout/blob/c9e807431f98d4d06c19038beb155f72566033dc/examples/custom_sketch.gif))
 
 ## [Phone Charging Station Kiosk](https://github.com/TyTodd/charging-station)
-[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://youtu.be/LPlF9MMSO6k)
+[![Watch the video](https://img.shields.io/badge/Watch_on-YouTube-red?logo=youtube&style=for-the-badge)](https://youtu.be/LPlF9MMSO6k)
 Touchscreen operated phone charging kiosk I built for my highschool.
 
 
